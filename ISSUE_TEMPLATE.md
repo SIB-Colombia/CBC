@@ -8,6 +8,8 @@
 
 [] Only if you're aware of the milestone please assign it.
 
+For assignee:
+
 _*If can't be done explain in as much detail as possible, in a reasonable time before the milestone deadline._
 
 _*Don't close an issue when finished, the member assigned just should move the issue to the pile "tested and done"._
