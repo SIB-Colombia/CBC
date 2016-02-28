@@ -1,4 +1,4 @@
-1. Tittle the issue in a direct, informative and short way. 
+1. Title the issue in a direct, informative and short way. 
 2. Write down the browser used, e.g. "browser:firefox", "browser:safari", etc...
 3. @members if needed.
 4. In as much detail as possible describe the problem, question, help or task to be addressed.
