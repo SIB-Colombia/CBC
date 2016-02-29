@@ -5,8 +5,3 @@
 5. Attach a picture only if needed.
 6. Always assing the proper labels following the CBC wiki guide, please don't be lazy.
 7. Only if you're aware of the milestone please assign it.
-
-For assignee:
-
--  If can't be done explain in as much detail as possible, in a reasonable time before the milestone deadline.
--  Don't close an issue when finished, just assing the "check label" and move the issue to the pile "tested and done".
