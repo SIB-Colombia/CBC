@@ -1,5 +1,5 @@
 1. Title the issue in a direct, informative and short way. 
-2. Write down the browser used, e.g. "browser:firefox", "browser:safari", etc...
+2. Write down the browser used, e.g. "browser:firefox", "browser:safari".
 3. @members only if needed.
 4. In as much detail as possible describe the problem, question, help or task to be addressed.
 5. Attach a picture only if needed.
